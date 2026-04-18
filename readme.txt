@@ -1,1 +1,0 @@
-Timachev Daniil KN-223d
