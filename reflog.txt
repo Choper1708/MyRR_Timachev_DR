@@ -1,0 +1,31 @@
+e19da42 (HEAD - master, style2, develop) HEAD@{0} merge develop Fast-forward
+4a35a69 HEAD@{1} checkout moving from develop to master
+e19da42 (HEAD - master, style2, develop) HEAD@{2} rebase (finish) returning to refsheadsdevelop
+e19da42 (HEAD - master, style2, develop) HEAD@{3} rebase (start) checkout style2
+a6e6e3f (images2) HEAD@{4} checkout moving from style2 to develop
+e19da42 (HEAD - master, style2, develop) HEAD@{5} rebase (finish) returning to refsheadsstyle2
+e19da42 (HEAD - master, style2, develop) HEAD@{6} rebase (pick) Update style2
+a6e6e3f (images2) HEAD@{7} rebase (start) checkout develop
+4a64c0d HEAD@{8} checkout moving from develop to style2
+a6e6e3f (images2) HEAD@{9} rebase (finish) returning to refsheadsdevelop
+a6e6e3f (images2) HEAD@{10} rebase (start) checkout images2
+4a35a69 HEAD@{11} checkout moving from images2 to develop
+a6e6e3f (images2) HEAD@{12} checkout moving from style2 to images2
+4a64c0d HEAD@{13} commit Update style2
+4a35a69 HEAD@{14} checkout moving from develop to style2
+4a35a69 HEAD@{15} checkout moving from images2 to develop
+a6e6e3f (images2) HEAD@{16} commit Update index images2
+4a35a69 HEAD@{17} checkout moving from develop to images2
+4a35a69 HEAD@{18} checkout moving from master to develop
+4a35a69 HEAD@{19} checkout moving from develop to master
+4a35a69 HEAD@{20} commit (merge) Resolve merge
+6a6d9c6 (images) HEAD@{21} merge images Fast-forward
+23bded3 HEAD@{22} checkout moving from styles to develop
+94f1388 (styles) HEAD@{23} commit Update index with styles
+5ebb595 HEAD@{24} commit Add styles
+23bded3 HEAD@{25} checkout moving from develop to styles
+23bded3 HEAD@{26} checkout moving from images to develop
+6a6d9c6 (images) HEAD@{27} commit Add image to index.html
+41eb6b5 HEAD@{28} commit Add images
+23bded3 HEAD@{29} checkout moving from develop to images
+23bded3 HEAD@{30} commit (initial) Create index.html
